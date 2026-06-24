@@ -1,5 +1,5 @@
 # AFAD Tercih Robotu
-AFAD Görevde Yükselme ve Unvan Değişikliği Sınavı Tercih Robotu (şüne Müdürlüğü Kadrosu)
+AFAD Görevde Yükselme ve Unvan Değişikliği Sınavı Tercih Robotu (Şube Müdürlüğü Kadrosu)
 
 Bu depo, AFAD GYUDS için geliştirilen bir tercih yerleştirme simülasyonunu içerir. Web tabanlı kullanıcı arayüzü sayesinde aday ekleyebilir, tercih listelerini seçebilir ve puana göre sıralanıp kontenjanlara göre yerleştirilmesini simüle edebilirsiniz.
 
